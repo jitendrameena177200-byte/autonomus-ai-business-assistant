@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Vector store / generated data
+data/vector_store/
+data/outputs/*.docx
+data/outputs/*.pdf
+!data/outputs/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

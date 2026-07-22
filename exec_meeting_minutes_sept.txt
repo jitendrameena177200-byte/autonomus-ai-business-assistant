@@ -1,0 +1,47 @@
+Trident Group — Executive Leadership Meeting Minutes
+Date: September 18, 2026
+Attendees: CEO, COO, CFO, VP Sales, VP Engineering, VP People
+
+1. Q3 Financial Check-in
+CFO presented preliminary Q3 numbers showing revenue tracking approximately
+4% ahead of forecast, led by Industrial Equipment. CFO flagged that gross
+margin compressed by 1.1 points due to elevated freight costs and requested
+that Operations evaluate alternate freight carriers before Q4 budgeting
+begins.
+
+2. TridentFlow Product Line
+VP Engineering reported that the TridentFlow pump line has a defect rate of
+0.8%, within target, but the current manufacturing partner in Malaysia is
+at 92% capacity utilization. The team is evaluating a second manufacturing
+partner in Thailand to add redundancy before Q1 FY2027, with a decision
+targeted for late October.
+
+3. Consumer Hardware Division
+Following two quarters of missed targets, the leadership team agreed to
+commission a 30-day strategic review of the Consumer Hardware division.
+Options under consideration include repositioning the product line toward
+the small-business segment, licensing the brand to a third-party
+manufacturer, or winding the division down by Q2 FY2027. VP Sales will
+lead the review with support from Finance.
+
+4. Hiring Plan
+VP People presented the Q4 hiring plan: 14 open requisitions, concentrated
+in Southeast Asia sales (5), supply chain (4), and software engineering (5)
+to support the new internal tooling initiative. Budget approved contingent
+on Q3 numbers finalizing above forecast.
+
+5. Southeast Asia Expansion
+VP Sales confirmed the Vietnam and Indonesia distribution partnerships are
+ahead of schedule, with first shipments completed in August. The team
+proposed evaluating a Philippines partnership in Q1 FY2027 given early
+regional demand signals.
+
+6. Action Items
+- CFO: circulate updated freight-cost analysis by September 30.
+- VP Engineering: present Thailand manufacturing partner evaluation at the
+  October 20 leadership meeting.
+- VP Sales: deliver Consumer Hardware strategic review findings by
+  October 18.
+- VP People: begin sourcing for approved Q4 hiring plan immediately.
+
+Next meeting: October 20, 2026.
